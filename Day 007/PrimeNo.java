@@ -22,9 +22,5 @@ public class PrimrNo {
             c++;
         }
         return c * c > num;
-//        if (c * c > n) {
-//            return true;
-//        }
-//        return false;
     }
 }
