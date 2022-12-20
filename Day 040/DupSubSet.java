@@ -1,4 +1,4 @@
-/* Subset of a string */
+/* Subset of an Array */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
